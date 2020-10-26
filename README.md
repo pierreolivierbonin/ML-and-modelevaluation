@@ -1,12 +1,7 @@
 # ML-and-modelevaluation
 This project was part of the IBM Data Science Professional Certificate. It is an analysis of past loans and predicting whether an individual is likely to pay it off or not. It includes several techniques of machine learning as well as basic ETL and data visualization operations.
 
-*Libraries used:*
-*sci-kit learn
-*numpy
-*matplotlib
-*pandas
-*seaborn
+*Libraries used:* sci-kit learn, numpy, matplotlib, pandas, seaborn
 
 *Machine learning techniques applied:*
 * K Nearest Neihbour (KNN)
