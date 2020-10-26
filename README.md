@@ -25,7 +25,7 @@ This project was part of the IBM Data Science Professional Certificate. It is an
 *Data visualization and exploratory analysis included:*
 * Seaborn FacetGrid (multiple histograms in a single figure)
 * subsample comparison
-* visualization of the accuracy of a KNN model according to their K
+* visualization of the accuracy of a KNN model according to their K 
 
 
 
